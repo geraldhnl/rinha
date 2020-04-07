@@ -1,0 +1,16 @@
+body{
+  width: 95%;
+  max-width: 1000px;
+  margin: auto;
+  background: url(space.jpg) center;
+
+  line-height: 1.5;
+  color: white;
+
+}
+main{
+  background: #00537885;
+  padding: 15px 40px;
+  margin-top: 25px;
+  border-radius: 35px;
+}
