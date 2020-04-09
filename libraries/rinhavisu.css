@@ -1,0 +1,27 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+h1{
+  text-align: center;
+  margin-top: 80px;
+}
+
+img{
+  max-width: 80%;
+  display: block;
+  margin-top: 20%;
+}
+
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 800px;
+  margin: 0 auto;
+
+}
+
+.flex > div {
+  flex: 1 1 200px;
+}
